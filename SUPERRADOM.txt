@@ -1,0 +1,47 @@
++Attack (Kecleon) @ Choice Band  
+Ability: Color Change  
+EVs: 76 HP / 252 Atk / 72 Def / 48 SpA / 60 SpD  
+Adamant Nature  
+- Metronome  
+- Metronome  
+- Metronome  
+- Metronome  
++Defence (Kecleon) @ Focus Sash  
+Ability: Color Change  
+EVs: 104 HP / 56 Atk / 252 Def / 56 SpA / 40 SpD  
+Bold Nature  
+- Metronome  
+- Metronome  
+- Metronome  
+- Metronome  
++Sp-Attack (Kecleon) @ Choice Specs  
+Ability: Color Change  
+EVs: 100 HP / 64 Atk / 48 Def / 252 SpA / 44 SpD  
+Mild Nature  
+- Metronome  
+- Metronome  
+- Metronome  
+- Metronome  
++Sp-Defence (Kecleon) @ Focus Sash  
+Ability: Color Change  
+EVs: 104 HP / 60 Atk / 48 Def / 44 SpA / 252 SpD  
+Calm Nature  
+- Metronome  
+- Metronome  
+- Metronome  
+- Metronome  
++HP (Kecleon) @ Leftovers  
+Ability: Color Change  
+EVs: 252 HP / 52 Atk / 100 Def / 52 SpA / 52 SpD  
+- Metronome  
+- Metronome  
+- Metronome  
+- Metronome  
+LifeOrb (Kecleon) @ Life Orb  
+Ability: Color Change  
+EVs: 140 HP / 116 Atk / 68 Def / 116 SpA / 68 SpD  
+Rash Nature  
+- Metronome  
+- Metronome  
+- Metronome  
+- Metronome
